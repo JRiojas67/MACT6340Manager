@@ -1,7 +1,7 @@
 {
   "name": "mact6340manager",
   "version": "1.0.0",
-  "description": "",
+  "description": "A tool to prep generative art to become NFTS",
   "homepage": "https://github.com/JRiojas67/MACT6340Manager#readme",
   "bugs": {
     "url": "https://github.com/JRiojas67/MACT6340Manager/issues"
@@ -12,8 +12,8 @@
   },
   "license": "MIT",
   "author": "",
-  "type": "commonjs",
-  "main": "index.js",
+  "type": "module",
+  "main": "apps.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
